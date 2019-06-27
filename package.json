@@ -1,0 +1,22 @@
+{
+  "name": "implement-multiplication-table",
+  "version": "1.0.0",
+  "description": "imolement multiplication table",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernlee/-Implement-A-Multiplication-Table-2019-6-13-6-57-40-397.git"
+  },
+  "author": "Yae li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernlee/-Implement-A-Multiplication-Table-2019-6-13-6-57-40-397/issues"
+  },
+  "homepage": "https://github.com/fernlee/-Implement-A-Multiplication-Table-2019-6-13-6-57-40-397#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
